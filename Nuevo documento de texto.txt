@@ -1,0 +1,11 @@
+QUE ES UNA COOKIE: 
+Archivos que podemos guardar en el lado del cliente, en el navegador web del usuario.
+Pueden tener una expiracion.
+Se reinician al cerrar el navegador.
+No se puede almacenar datos sencibles en las cookies, pq todos tienen acceso.
+Podemos guardar carritos de compra en las cookies, el el id del carrito que tengamos en memoria.
+
+podes persistir data de un cliente, o de una persona que esta accediendo en mi localhost 
+basicmanete guardando datos en el FRONT emitidos desde el BACK
+Entonces el front cada vez que haga una solicitud de las cookies, le va a mandar en el REQUEST, essas cookies
+que emitio el back.
